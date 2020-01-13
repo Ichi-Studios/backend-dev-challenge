@@ -2,7 +2,7 @@
 The backend developer challenge from Ichi Studios
 
 The challenge:
-Create an extensible project that converts a json into a csv with nested headers. 
+Please fork this repository & create an extensible project that converts a json into a csv with nested headers. 
 
 ## Notes:
 
